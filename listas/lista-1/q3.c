@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 /*
 Artur Rodrigues Santos
 Lista I - Questão 03
@@ -20,6 +18,8 @@ Escreva um programa, usando quando necessário o operador (?), que:
 
 -> Se a divisão anterior for possível, determinar se a é divisível de forma exata por b, mostrar o resultado na tela.
 */
+
+#include <stdio.h>
 
 int main()
 {
