@@ -1,5 +1,6 @@
 /*
-Artur Rodrigues Santos
+<Artur Rodrigues Santos>
+
 Lista II - Questão 01
 
 Crie um programa qual entre com um argumento e desenvolva funções que:
@@ -72,7 +73,7 @@ void qual(char tecla) {
 
 	if ( isalnum(tecla) ) {
 
-		printf("\nVocê digitou um alfanumérico!");
+		printf("\nVocê digitou um alfanumérico!!!");
 
 		if ( isdigit(tecla) )
 		printf("\n\nVocê digitou um número!\n\n");
@@ -166,5 +167,4 @@ void perfeitos(int num) {
 			if ( i == soma )
 				printf("%i   ", soma);
 	}
-
 }
